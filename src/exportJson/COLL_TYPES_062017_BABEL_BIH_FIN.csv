@@ -1,0 +1,45 @@
+Financial Collateral;;Pledged Account (Own Bank);FIN;KS;100
+Financial Collateral;;Pledged Term Deposit (Own Bank);FIN;KS;100
+Financial Collateral;;Pledged Savings Book (Own Bank);FIN;KS;100
+Financial Collateral;;Pledged Securities Depot (Own Bank);FIN;DS;100
+Financial Collateral;;Bail Account;FIN;KS;100
+Financial Collateral;;Pledged Account (Other Bank);CPT;KS;100
+Financial Collateral;;Pledged Term Deposit (Other Bank);CPT;KS;100
+Financial Collateral;;Pledged Savings Book (Other Bank);CPT;KS;100
+Financial Collateral;;Pledged Securities Depot (Other Bank);FIN;DS;100
+Financial Collateral;;Building Society Contract Assignment;CPT;KS;100
+Insurances;;Life Assurance;CPT;LV;100
+Insurances;;Life Insurance;CPT;SS;100
+Insurances;;Fire & Property Insurance;CPT;SS;100
+Insurances;;Export & Credit Insurance - Indirect;CPT;FA;100
+Insurances;;Export & Credit Insurance - Direct;CPT;PS;100
+Direct Personal Collateral;;Guarantee (Direct);CPT;PS;100
+Direct Personal Collateral;;Surety;CPT;PS;100
+Direct Personal Collateral;;Bill of Exchange;CPT;PS;100
+Direct Personal Collateral;;Promissory Note;CPT;PS;100
+Direct Personal Collateral;;Debenture Bond;CPT;PS;100
+Direct Personal Collateral;;Letter of Comfort;CPT;PS;100
+Direct Personal Collateral;;Right of Recourse;CPT;PS;100
+Direct Personal Collateral;;Deficiency Guarantee;CPT;PS;100
+Indirect Personal Collateral;;Guarantee (Indirect);CPT;FA;100
+Indirect Personal Collateral;;Documentary Credit;CPT;FA;100
+Real Estate;;Mortgage;RRE;GP;100
+Real Estate;;Mortgage;CRE;GP;100
+Real Estate;;Mortgage;SON;GP;100
+Receivables From Goods And Services;;Individual Assignment;REC;FA;100
+Receivables From Goods And Services;;Global Assignment;REC;FA;100
+Movables;;Machinery;PHY;SV;100
+Movables;;Goods;PHY;SV;100
+Movables;;Motor Vehicles;PHY;KF;100
+Movables;;Raw Materials;PHY;SV;100
+Movables;;Aircraft;PHY;FV;100
+Movables;;Ships;PHY;SH;100
+Movables;;Precious Metal;PHY;EM;100
+Movables;;Other Moveable Property;PHY;SV;100
+Other Physical Collateral;;Pledge of All Assets;SON;SV;100
+Other Physical Collateral;;Pledge of Borrowers Shares Listed;SON;SV;100
+Other Physical Collateral;;Pledge of Borrowers Shares Unlisted;SON;SV;100
+Other Physical Collateral;;Rental Income;SON;FA;100
+Other Physical Collateral;;Salary;SON;FA;100
+Other Physical Collateral;;Rights;SON;FA;100
+Other Physical Collateral;;Other Collateral;SON;SS;100

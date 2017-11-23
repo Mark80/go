@@ -1,0 +1,52 @@
+Financial Collateral;Financial Collateral (Deposit);Pledged Account (Own Bank);FIN;KS;100%
+Financial Collateral;Financial Collateral (Deposit);Pledged Term Deposit (Own Bank);FIN;KS;100%
+Financial Collateral;Financial Collateral (Deposit);Pledged Savings Book (Own Bank);FIN;KS;100%
+Financial Collateral;Financial Collateral (Securities deposit);Pledged Securities Depot (Own Ba;FIN;DS;56-97%
+Financial Collateral;Financial Collateral (Deposit);Bail Account;FIN;KS;100%
+Financial Collateral;Financial Collateral (Deposit);Pledged Account (Other Bank);FIN;KS;100%
+Financial Collateral;Financial Collateral (Deposit);Pledged Term Deposit (Other Bank;FIN;KS;100%
+Financial Collateral;Financial Collateral (Deposit);Pledged Savings Book (Other Bank;FIN;KS;100%
+Financial Collateral;Financial Collateral (Securities deposit);Pledged Securities Depot (Other;FIN;DS;56-97%
+Financial Collateral;Financial Collateral (Deposit);Building Society Contract Assign;FIN;KS;100%
+Insurances;Insurances (life assurance);Life Assurance with non red. sur;CPT;LV;100%
+Insurances;Insurances (life assurance);Life Insurance;CPT;LV;0%
+Insurances;Insurances (other);Fire and Property Insurance;CPT;PS;0%
+Insurances;Insurances (other);Export & Credit Insurance - Indi;CPT;PS;95%
+Insurances;Insurances (other);Export & Credit Insurance - Dire;CPT;PS;100%
+Insurances;Insurances (life assurance);Life Assurance with reducible su;CPT;LV;60-90%
+Direct Personal Collateral;Direct Personal Collateral;Guarantee (Direct);CPT;PS;100%
+Direct Personal Collateral;Direct Personal Collateral;Surety;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Bill of Exchange;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Promissory Note;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Debenture Bond;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Letter of Comfort;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Right of Recourse;CPT;PS;0%
+Direct Personal Collateral;Direct Personal Collateral;Deficiency Guarantee;CPT;PS;0%
+Indirect Personal Collateral;Indirect Personal Collateral;Guarantee (Indirect);CPT;PS;95%
+Indirect Personal Collateral;Indirect Personal Collateral;Documentary Credit;CPT;PS;95%
+Real Estate;Real Estate (RRE);Mortgage;RRE;GP;70%
+Real Estate;Real Estate (CRE);Mortgage;CRE;GP;60%
+Receivables From Goods And Services;Receivables From Goods And Services;Individual Assignment;REC;FA;70%
+Receivables From Goods And Services;Receivables From Goods And Services;Global Assignment;REC;FA;70%
+Movables;Movables;Machinery;PHY;SV;50%
+Movables;Movables;Goods;PHY;SV;50%
+Movables;Movables;Motor Vehicles;PHY;SV;50%
+Movables;Movables;Raw Materials;PHY;SV;50%
+Movables;Movables;Aircraft;PHY;SV;60%
+Movables;Movables;Ships;PHY;SV;50%
+Movables;Movables;Gold;PHY;SV;50%
+Movables;Movables;Precious Metal;PHY;SV;50%
+Movables;Movables;Other Moveable Property;PHY;SV;50%
+Other Physical Collateral;Other Physical Collateral (company  shares);Pledge of All Assets;SON;DS;0%
+Other Physical Collateral;Other Physical Collateral (company  shares);Pledge of Borrowers Shares listed;SON;DS;0-60.6%
+Other Physical Collateral;Other Physical Collateral (company  shares);Pledge of Borrowers Shares unlisted;SON;DS;0-40%
+Other Physical Collateral;Other Physical Collateral (rental income);Rental Income;PHY;FA;70%
+Other Physical Collateral;Other Physical Collateral (salary);Salary;SON;SA;0%
+Other Physical Collateral;Other Physical Collateral (Trade mark and patent rights AND other rights);Rights;SON;SV;0%
+Other Physical Collateral;Other Physical Collateral (other collateral);Other Collateral;SON;SS;0%
+Credit Derivatives;Credit Derivatives;Credit Default Swap (CDS);CPT;KD;60-100%
+Credit Derivatives;Credit Derivatives;Credit Default Swap (CDS) Basket;CPT;KD;60-100%
+Credit Derivatives;Credit Derivatives;Nth to Default Swap (CDS);CPT;KD;60-100%
+Credit Derivatives;Credit Derivatives;Total Return Swap (TRS);CPT;KD;60-100%
+Credit Derivatives;Credit Derivatives;Total Return Swap (TRS) Basket;CPT;KD;60-100%
+Credit Derivatives;Credit Derivatives;Credit Linked Note (CLN);CPT;KD;100%
